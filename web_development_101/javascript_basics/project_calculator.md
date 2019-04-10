@@ -3,7 +3,7 @@ You made it! By now you should have a _really_ firm grasp on the fundamentals of
 
 As usual with these things, there are elements of this project that are not going to be trivially easy for you, but if you've been following the course so far, you definitely have everything you need to finish it. We're going to walk you through the various steps you can take, but again, how you actually implement them is up to you!
 
-**Important Note:** Before you get started with this calculator project, we need to cover a word of warning. As you look into how to evaluate complex mathematical statements in JavaScript, you will likely come across the tantalizing [`eval()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) function. However, this function can be very dangerous and [should not ever be used](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#Do_not_ever_use_eval!)! You'll need to build your own functions to evalualte expressions as part of this calculator project.
+**Important Note:** Before you get started with this calculator project, we need to cover a word of warning. As you look into how to evaluate complex mathematical statements in JavaScript, you will likely come across the tantalizing [`eval()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval) function. However, this function can be very dangerous and [should not ever be used](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/eval#Do_not_ever_use_eval!)! You'll need to build your own functions to evaluate expressions as part of this calculator project.
 
 
 ### Assignment
@@ -44,6 +44,9 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [Christine Gierer's Solution](https://github.com/beansprout/calculator) - [View in Browser](https://beansprout.github.io/calculator/)
+- [Samuel Alonso's Solution](https://github.com/samontenegro/js-calculator)
+- [Carmine's Solution](https://github.com/cgrossi/calculator-project) - [View in Browser](https://cgrossi.github.io/calculator-project/)
 - [Alptekin's Solution](https://github.com/alpwoo/Calculator) - [View in Browser](https://alpwoo.github.io/calculator/)
 - [Rafe Draper's Solution](https://github.com/rafeDraper/calculator) - [View in Browser](https://rafedraper.github.io/calculator/)
 - [Luka Salevic's Soltuion](https://github.com/Sensanaty/calculator) - [View in browser](https://sensanaty.github.io/calculator/)
@@ -259,6 +262,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Antonio Marcos's Solution](https://github.com/AMarcosCastelo/simple_calculator) - [View in Browser](https://amarcoscastelo.github.io/simple_calculator/)
 - [Ricardo Valdez's Solution](https://github.com/drikonricus/jscalc) - [View in Browser](https://drikonricus.github.io/jscalc/)
 - [HerrCaesar's Solution](https://github.com/HerrCaesar/calculator) - [View in Browser](https://herrcaesar.github.io/calculator/)
+- [Barbara Lucas' Solution](https://github.com/LucasBarbara/calculator) - [View in Browser](https://lucasbarbara.github.io/calculator/)
+- [Bendee48's Solution](https://github.com/bendee48/calculator) - [View in Browser](https://bendee48.github.io/calculator/)
 
 </details>
-

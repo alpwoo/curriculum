@@ -39,6 +39,11 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
   <summary> Show Student Solutions </summary>
 
 - Add your solution below this line!
+- [David França's Solution](https://github.com/davidjnf/rock-paper-scissors)
+- [DaveMcGlashan's solution](https://github.com/DaveMcGlashan/TOP-RPS) - [View in Browser](https://davemcglashan.github.io/TOP-RPS/index.HTML)
+- [Henry Naoto Ishiyama's Solution](https://github.com/TheDemonGuard/TheOdinProject/tree/master/RockPaperScissors)
+- [Nick Dmitrienko's Solution](https://github.com/JakeTheFriendlyDog/rock-paper-scissors) - [View In Browser](https://jakethefriendlydog.github.io/rock-paper-scissors/)
+- [Brett Kinnamon's Solution](https://github.com/bkinnamon/rock-paper-scissors) - [View in Browser](https://bkinnamon.github.io/rock-paper-scissors/)
 - [cotrones's Solution](https://github.com/cotrones/rock-paper-scissors) - [View in Browser](https://cotrones.github.io/rock-paper-scissors/)
 - [John Paul's Solution](https://github.com/Omulosi/rock-paper-scissors) - [View in browser](https://omulosi.github.io/rock-paper-scissors/)
 - [Carmine's Solution](https://github.com/cgrossi/r-p-s) - View in Browser [Console Version](https://cgrossi.github.io/r-p-s/)/[Visual Version](https://cgrossi.github.io/Rock-Paper-Scissors-V2/)
@@ -155,7 +160,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Justin D. Smith's solution](https://github.com/cinephile85/the-odin-project/tree/master/1-web-development-101/rock-paper-scissors)
 - [Alan's solution](https://github.com/Bernstein7z/rock-paper-scissors) - [View in Browser](https://bernstein7z.github.io/rock-paper-scissors/)
 - [Jacobo's console solution](https://github.com/cobimr/webdev_101_projects/tree/master/rpc-game-console) - [View in browser](https://cobimr.github.io/webdev_101_projects/rpc-game-console/) - [Jacobo's UI solution](https://github.com/cobimr/webdev_101_projects/tree/master/rpc-game-ui) - [View UI solution in browser](https://cobimr.github.io/webdev_101_projects/rpc-game-ui/)
-- [Bojo's solution](https://github.com/BojoZahariev/Rock_paper_scissors) - [View in browser](https://cdn.rawgit.com/BojoZahariev/Rock_paper_scissors/e04c975b/index.html)
+- [Bojo's solution](https://github.com/BojoZahariev/Rock_paper_scissors) - [View in browser](https://bojozahariev.github.io/Rock_paper_scissors/)
 - [Omid's solution](https://github.com/omid997/js-rock-paper-scissors-odin) - [View in browser](https://omid997.github.io/js-rock-paper-scissors-odin/)
 - [Nixikaz's Solution](https://github.com/Nixikaz/rockpaperscissors)
 - [Justin D. Smith's solution](https://github.com/cinephile85/The-Odin-Project/tree/master/1-Web_Development_101/rock_paper_scissors)
@@ -573,4 +578,11 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [MlBaraldi's Solution](https://github.com/Markbass1/RockPaperScissorGame)
 - [Echendu Victor Ikenna's (Morlimoore) Solution](https://github.com/morlimoore/rock-paper-scissors) - [View in Browser](https://morlimoore.github.io/rock-paper-scissors/)
 - [William Mweemba's Solution](https://github.com/wmweemba/RockPaperScissors)
+- [Nika Topuria's Solution](https://github.com/topuchi13/rock_paper_scissors)
+- [Niccolas' Solution](https://github.com/NiccoMaganeli/rock-paper-scissors) - [View in Browser](https://niccomaganeli.github.io/rock-paper-scissors)
+- [LastCapricorn's UI - Solution](https://github.com/LastCapricorn/rock_paper_scissors_ui) - [View in Browser](https://lastcapricorn.github.io/rock_paper_scissors_ui/)
+- [Alan Donohoe's Solution](https://github.com/donohoea/rock_paper_scissors)
+- [Nabil Shaahani Solution](https://github.com/Nabil19911/ROCK-PAPER-SCISSORS/settings) - [View in Brower](https://nabil19911.github.io/ROCK-PAPER-SCISSORS/)
+- [Adriel Bruno's Solution](https://github.com/AdrielTrigger/jokenpo-revisited) - [View in Browser](https://adrieltrigger.github.io/jokenpo-revisited/)
+- [Amish Goel's Solution](https://github.com/AmishGoel1/rock_paper_scissors) - [View in Browser](https://amishgoel1.github.io/rock_paper_scissors/)
 </details>
